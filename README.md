@@ -26,7 +26,7 @@ The paper argues that the real engineering discipline for multi-agent systems is
 
 ### Full Paper
 
-→ [Read the full white paper (WHITEOBPER.md)](WHITEOBPER.md)
+→ [Read the full white paper](WHITEOBPER.md)
 
 ---
 
